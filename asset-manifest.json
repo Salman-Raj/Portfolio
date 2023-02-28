@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Salman-Raj/Portfolio.git/static/css/main.a0f3d075.css",
-    "main.js": "/Salman-Raj/Portfolio.git/static/js/main.e0923254.js",
+    "main.css": "/Salman-Raj/Portfolio.git/static/css/main.5dcac749.css",
+    "main.js": "/Salman-Raj/Portfolio.git/static/js/main.045929cf.js",
     "static/js/787.28cb0dcd.chunk.js": "/Salman-Raj/Portfolio.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Salman-Raj/Portfolio.git/index.html",
-    "main.a0f3d075.css.map": "/Salman-Raj/Portfolio.git/static/css/main.a0f3d075.css.map",
-    "main.e0923254.js.map": "/Salman-Raj/Portfolio.git/static/js/main.e0923254.js.map",
+    "main.5dcac749.css.map": "/Salman-Raj/Portfolio.git/static/css/main.5dcac749.css.map",
+    "main.045929cf.js.map": "/Salman-Raj/Portfolio.git/static/js/main.045929cf.js.map",
     "787.28cb0dcd.chunk.js.map": "/Salman-Raj/Portfolio.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0f3d075.css",
-    "static/js/main.e0923254.js"
+    "static/css/main.5dcac749.css",
+    "static/js/main.045929cf.js"
   ]
 }
