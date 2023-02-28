@@ -1,6 +1,6 @@
 .container{
     background-color: #CC313D;
-    height: 10vh;
+    height: 30%;
     color:#fff;
     width: 100%;
     background-size: cover;
@@ -175,5 +175,15 @@ nav ul li a:hover {
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
+    .container{
+        background-color: #CC313D;
+        height: 12vh;
+        color:#fff;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        border-bottom:1px solid grey;
+        
+    }
 
  }

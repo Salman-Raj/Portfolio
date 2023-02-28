@@ -7,8 +7,8 @@ const skills=[
     { name: "Python", completion: "70%" },
     { name: "Javascript", completion: "70%" },
     { name: "Node & Express", completion: "70%" },
-    { name: "SQL", completion: "80%" },
-    { name: "Javascript", completion: "80%" },
+    { name: "SQL", completion: "90%" },
+    { name: "React", completion: "80%" },
 
 
 ]
